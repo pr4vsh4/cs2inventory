@@ -1,0 +1,15 @@
+{
+  "name": "CS2 Inventory",
+  "short_name": "CS2 Inv",
+  "start_url": "/cs2inventory/",
+  "display": "standalone",
+  "background_color": "#171a21",
+  "theme_color": "#171a21",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/8002/8002111.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
